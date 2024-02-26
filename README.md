@@ -260,5 +260,3 @@ $ git remote add origin git@github.com:hassanelhllos2020/newrep.git
 3- do edits and push to my forked repo
 
 4- pull request
-
-# **تمت بحمد الله**
